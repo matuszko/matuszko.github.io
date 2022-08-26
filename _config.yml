@@ -7,9 +7,9 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Jakub
 paginate: 30
-disqus: 'Jakub'
-locale: en_us
-lang: en_us
+disqus: "jmat"
+locale: pl_pl
+lang: pl_pl
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
@@ -25,27 +25,18 @@ ganalytics:
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Jakub Matuszko
+    display_name: Jakub
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
-
+    email: jakub@jmat.pl
+    web: https://www.jmat.pl
+    twitter: https://twitter.com/thjacb
+    description: "Student - Analityk - Programista."
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/matuszkojakub/
+  facebook: https://www.facebook.com/matuszkojakub
+  twitter: https://twitter.com/thjacb
 
 # Plugins
 plugins: 

@@ -1,32 +1,32 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Strona Główna
   url: ""
 
-- title: About
-  url: "about/"
+- title: O mnie
+  url: "o-mnie/"
 
-- title: Contact
-  url: "contact/"
+- title: Kontakt
+  url: "kontakt/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: GitHub
+  url: https://github.com/matuszko
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Strona Główna
   url: ""
 
-- title: Privacy Policy
+- title: Polityka prywatności
   url: "privacy-policy/"
 
-- title: Contact
-  url: "contact/"
+- title: Kontakt
+  url: "kontakt/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+- title: GitHub
+  url: https://github.com/matuszko
   external: true
