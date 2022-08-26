@@ -11,7 +11,7 @@
             <div class="wrapfooter small d-flex align-items-center">
                 <span class="author-meta">
                 Dodał  <span class="post-name"> {% if post.author %}{{ author.display_name }}{% else %}{{ site.author }}{% endif %}, </span>             
-                 <span class="post-date">{{ post.date | date_to_string }}</span>
+                 <span class="post-date">{{ post.date | date: '%d.%m.%Y' }}</span>
                 </span>               
                 <div class="clearfix"></div>
             </div>
