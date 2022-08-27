@@ -10,6 +10,9 @@ topmenu:
 - title: Kontakt
   url: "kontakt/"
 
+- title: Projekty
+  url: "projekty/"
+
 - title: GitHub
   url: https://github.com/matuszko
   class: "ml-2 btn btn-dark text-white px-3"
