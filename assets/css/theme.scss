@@ -136,7 +136,7 @@ small, .small {
 ================================================== */
 .hero {
     background: #fdd93d;
-    padding: 5vh 5vh;
+    padding: 5% 5%;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -166,7 +166,7 @@ small, .small {
 }
 
 .hero h1 {
-    font-size:5vh;
+    font-size:250%;
 }
 .section-title h2 {
 	font-weight:700;
@@ -515,7 +515,7 @@ background-color: #fff;
 .sidebar-section {     
     margin-bottom: 2rem;
     box-shadow:0 0px 1px 0 rgba(0, 0, 0, 0.44);
-    padding: 30px;
+    padding: 5%;
 }
 .sidebar #mc_embed_signup form {
     padding: 0 !important;
