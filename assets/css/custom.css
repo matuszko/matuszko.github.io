@@ -3,5 +3,7 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 .grey-clr {color: gray}
+.red-clr {color: rgb(85, 183, 157)}
 .padd-right {padding-right: 5px; padding-left: 5px;}
+
 body {}
