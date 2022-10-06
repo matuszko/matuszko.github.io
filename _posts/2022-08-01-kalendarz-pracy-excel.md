@@ -9,3 +9,5 @@ Celem szablonu jest ułatwienie zliczania przepracowanych godzin przez pracownik
 Dostosowuje się on automatycznie po wybraniu roku oraz miesiąca, pozwala na zliczenie dni chorobowych, zwolnień czy urlopów. <br>
 Wszystkie dane są prezentowane w osobnej karcie - przedstawiają one wszystkie dane zsumowane w formie tabeli oraz wykresu. <br>
 <br>
+
+<h3>Link do pobrania: <a href = "https://github.com/matuszko/Harmonogram-Pracy">https://github.com/matuszko/Harmonogram-Pracy</a></h3>
