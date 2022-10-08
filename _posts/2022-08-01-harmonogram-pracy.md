@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Kalendarz pracy - szablon EXCEL"
+title:  "Harmonogram Pracy - szablon EXCEL"
 categories: [ Szablony, Excel ]
-image: assets/images/1.jpg
+image: assets/images/excel.jpg
 ---
 <h2>Szablon w formacie XLTX dla programu Excel działający od wersji 2010.</h2>
 Celem szablonu jest ułatwienie zliczania przepracowanych godzin przez pracowników danej firmy.<br><br>
