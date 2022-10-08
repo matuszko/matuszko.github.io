@@ -2,9 +2,11 @@
 layout: page
 title: Coś o mnie
 permalink: "/o-mnie/"
-image: assets/images/screenshot.png
+image:
 ---
 
+<img src="/assets/images/screenshot.png"> 
+<br><br>
 Uczęszczam na trzeci rok studiów Inżynierii i Analizy Danych na Politechnice Rzeszowskiej.
 Interesuję się komputerami od najmłodszych lat, zaczynałem od formatowania systemu już w wieku 12 lat, kontynuując na poznaniu budowy
 systemów oraz ich sposobu działania. Po opanowaniu podstaw zacząłem rozwijać swoje zdolności w programowaniu w językach takich jak c++, czy python.
